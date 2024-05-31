@@ -1,6 +1,6 @@
-let nombre = 'Kevin';
-let a = 10;
-let b = 20;
+let nombre = 'Axel';
+let a = 20;
+let b = 30;
 let c = a + b;
 console.log(`hola ` + nombre);
 console.log(`hola ${nombre}`);
